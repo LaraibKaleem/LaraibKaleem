@@ -9,7 +9,7 @@
 
 ## 💼 Professional Experience
 - **ML/AI Intern** - Competition Commission of Pakistan (CCP) | 2025
-- **Data & AI Intern** - United Bank Limited (UBL) | 2024
+- **Data & BI Intern** - United Bank Limited (UBL) | 2024
 - **Development Intern** - Evamp & Saanga | 2020
 - **Web Dev Intern** - OGDCL | 2018
 
