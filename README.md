@@ -19,7 +19,7 @@
 - Specialized in NLP for low-resource languages (Roman Urdu)
 
 ## 💻 Technical Skills
-- **Languages:** Python, SQL, Java, PHP, JavaScript
+- **Languages:** Python, Java, PHP, JavaScript
 - **ML/AI:** TensorFlow, Scikit-learn, PyTorch, NLP, Deep Learning
 - **Data Science:** Pandas, NumPy, SciPy, NLTK
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
@@ -30,7 +30,7 @@
 - Completing Google Advanced Data Analytics Professional Certificate
 - Building production-ready ML systems
 - Exploring transformer architectures and LLMs
-- Seeking international opportunities in Data Science/ML Engineering
+- Seeking international opportunities in Data Analysis, Data Science/ML Engineering
 
 ## 🏆 Achievements
 - **Ignite (NIGIRI-2019) Final Year Project Fund**
