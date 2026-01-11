@@ -47,7 +47,7 @@
 - NLP systems for low-resource languages
 - Data visualization and business intelligence dashboards
 - Building comprehensive GitHub portfolio
-  
+- ✅ **First Repository Created:** [my-first-project](https://github.com/LaraibKaleem/my-first-project) - Learning Git workflow and version control
 ---
 
 💡 **"Transforming data into actionable insights through machine learning and AI"**
