@@ -8,7 +8,6 @@
   - FYP: Android Travel Recommendation Application using AI, Java & NoSQL
 
 ## 💼 Professional Experience
-- **ML/AI Intern** - Competition Commission of Pakistan (CCP) | 2025
 - **Data & BI Intern** - United Bank Limited (UBL) | 2024
 - **Development Intern** - Evamp & Saanga | 2020
 - **Web Dev Intern** - OGDCL | 2018
