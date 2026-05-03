@@ -37,7 +37,7 @@
 - Top AI academic project recognition
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Laraib Kaleem](https://www.linkedin.com/in/laraib-kaleem)
+- **LinkedIn:** [Laraib Kaleem](https://www.linkedin.com/in/laraibkaleem)
 - **Email:** laraibkaleem15@gmail.com
 - **Location:** Islamabad, Pakistan 🇵🇰
 
