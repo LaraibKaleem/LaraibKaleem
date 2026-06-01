@@ -10,13 +10,8 @@
 - 🌍 **Job Hunt** — Targeting Junior NLP/ML Engineer roles in Pakistan, UK, Europe, USA, Remote<br>
 - 📊 **Production Systems** — Building scalable, real-world ML solutions<br><br>
 
-## 🎮 Quick Links
-- 🚀 [AutoBizAI Dashboard](https://github.com/LaraibKaleem/AutoBizAI-Database-Dashboard) — Production ML system<br>
-- 🤖 [Google Cloud Agent](https://github.com/LaraibKaleem/Google-Cloud-Rapid-Agent) — Hackathon project<br>
-- 📄 [Springer Publication](https://doi.org/10.1007/978-3-031-70442-0_16) — Full paper<br><br>
-
 ## 🌟 Open To<br><br>✅ **Junior NLP Engineer** | **Junior ML Engineer** | **Graduate Data Scientist** | **AI Engineer (GenAI/Agentic)**
-🌍 **Locations:** UK · Europe · Remote  <br>
+🌍 **Locations:** USA · UK · Europe · Pakistan · Remote  <br>
 💼 **Type:** Full-time · Contract · Hybrid<br><br>
 
 
