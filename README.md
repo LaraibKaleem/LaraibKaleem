@@ -1,194 +1,161 @@
 
-# 💫 About Me:
 # Hi, I'm Laraib Kaleem 👋
-**Published NLP Researcher | AI/ML Engineer | MS Data Science**<br>Building intelligent agents and production ML systems that solve real-world challenges. 
 
-## 🎯 Current Focus (May 2026)
-- 🤖 **Google Cloud Rapid Agent Hackathon** — Building intelligent agents with Gemini 3 (Deadline: Jun 12)<br>
-- 📚 **Portfolio Expansion** — Creating showcase projects for international opportunities<br>
-- 🔬 **Advanced ML Research** — Exploring agentic AI systems and multi-step reasoning<br>
-- 🌍 **Job Hunt** — Targeting Junior NLP/ML Engineer roles in Pakistan, UK, Europe, USA, Remote<br>
-- 📊 **Production Systems** — Building scalable, real-world ML solutions<br><br>
+**Published NLP Researcher | AI/ML Engineer | MS Data Science**
 
-## 🌟 Open To<br><br>✅ **Junior NLP Engineer** | **Junior ML Engineer** | **Graduate Data Scientist** | **AI Engineer (GenAI/Agentic)**
-🌍 **Locations:** USA · UK · Europe · Pakistan · Remote  <br>
-💼 **Type:** Full-time · Contract · Hybrid<br><br>
+Building intelligent agents and production ML systems that solve real-world challenges.
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laraibkaleem15@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraibkaleem/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laraibkaleem15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/LaraibKaleem)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
-## 🎓 Education
-- **MS in Data Science** — Bahria University, Islamabad (2021–2023)<br>  
-  - Thesis: Text Summarization for Roman Urdu using NLP & Deep Learning<br>
-
-- **BS in Computer Science** — Center for Advanced Studies in Engineering (CASE), University of Engineering and Technology (UET), Taxila, Islamabad (2015–2019)<br>
-  - FYP: AI-based Android Travel Recommendation App (Java, NoSQL)<br>
-  - Award: Ignite (NIGIRI-2019) Final Year Project Fund<br><br>
-
-## 💼 Professional Experience
-**| Role | Company | Period | Focus |**<br>
-|---------|---------|---------|---------|<br>| 
-**AI/ML Trainee** | Samsung Innovation Campus | Jan 2026 – Present | AI/ML engineering, production systems |<br>| 
-**BI Analyst Intern** | United Bank Limited (UBL) | Jul–Sep 2024 | Data pipelines, Tableau dashboards, Python automation |<br>| 
-**Development Intern** | Evamp & Saanga | 2020 | Full-stack development |<br>| 
-**Web Dev Intern** | OGDCL | 2018 | Web development |<br><br>
-
-## 🔬 Research & Publications
-### **Published Researcher** — Springer Nature (2024)
-**Title:** RUATS: Abstractive Text Summarization for Roman Urdu<br>
-**Publication Details:**<br>
-  - International Workshop on Document Analysis Systems (DAS 2024)- Springer Nature Switzerland<br>
-  - **DOI:** [https://doi.org/10.1007/978-3-031-70442-0_16](https://doi.org/10.1007/978-3-031-70442-0_16)<br>
-
-**Key Contribution:** First benchmark dataset for abstractive summarization in Roman Urdu (low-resource South Asian language)<br><br>
+---
 
 ## 🚀 Featured Projects
-### **AutoBizAI-Database-Dashboard**<br>
-**Autonomous Business Decision Intelligence System**<br>
-Production-grade ML system on 180,519 supply chain records featuring:<br>
-  - **85% precision** late-delivery prediction<br>
-  - **5 autonomous AI agents** with Explainable AI (XAI) layer<br>
-  - **8-week demand forecasts** across 118 products  <br>
-  - **799 actionable alerts** generated<br>
-  - **Live Streamlit dashboard** deployed on Turso Cloud
 
-**Tech:** Python · PyTorch · XGBoost · LangChain · Streamlit · Turso DB<br><br>
-🔗 **[View on GitHub](https://github.com/LaraibKaleem/AutoBizAI-Database-Dashboard)**<br><br>
+### 🤖 AutoBiz AI — Autonomous Business Intelligence System
+**Production-grade multi-agent ML system on 180,519 real supply chain records**
 
-### **Google Cloud Rapid Agent Hackathon** 🤖<br>
-**Building Agents for Real-World Challenges**<br>
-AI agent powered by **Gemini 3** + **Google Cloud Agent Builder** integrating Partner MCP servers for autonomous task execution.<br><br>
-**Features:**<br>
-  - Multi-step reasoning & planning<br>
-  - Real-time decision making<br>
-  - Partner MCP integration<br>
-  - Human-controlled execution<br>
-  - Production-ready deployment
+- **85% accuracy** late-delivery prediction (vs 60% baseline)
+- **5 autonomous AI agents** generating 799 prioritised decisions per run
+- **4,062 fraud orders** detected | **4 critical stockouts** prevented
+- **8-week demand forecasts** across 118 products
+- **3-second model training** | **Zero manual intervention**
+- Explainability layer (SHAP/XAI) + interactive Streamlit dashboard deployed on Turso Cloud
 
-**Tech:** Google Cloud Agent Builder · Gemini 3 · Python · [Partner Tech: Arize/Elastic/etc.]🔗 **[GitHub Repo](https://github.com/LaraibKaleem/Google-Cloud-Rapid-Agent)**<br><br>
+**Tech:** Python · XGBoost · Prophet · RandomForest · SHAP · Streamlit · Turso DB · FastAPI
 
-## 💻 Technical Skills
-### **AI/ML & Deep Learning**<br>
-  - Transformers: BERT, T5, HuggingFace models<br>
-  - PyTorch, TensorFlow, Scikit-learn<br>
-  - LangChain, AI Agents, Agentic workflows<br>
-  - XAI (Explainable AI), Model interpretability<br>
-  - NLP: NLU, text classification, summarization, named entity recognition<br><br>
-
-### **Languages & Frameworks**<br>
-  - **Python** (primary) — NumPy, Pandas, SciPy, NLTK, scikit-learn<br>
-  - **SQL/NoSQL** — SQL, SQLite, Turso, MongoDB<br>
-  - **Others:** Java, JavaScript, PHP<br><br>
-
-### **Cloud & Deployment**<br>
-- **Google Cloud:** Agent Builder, Cloud Run, Firestore, Datastore<br>
-- **Databases:** Turso Cloud, Firebase, SQLite<br>
-- **APIs:** REST, httpx, FastAPI<br><br>
-
-### **Data & Analytics**<br>
-- **Visualization:** Tableau, Power BI, Streamlit, Plotly, Matplotlib, Seaborn<br>
-- **Data Pipelines:** ETL, data preprocessing, feature engineering<br>
-- **BI:** Dashboard design, business intelligence, analytics<br><br>
-
-### **Tools & DevOps**<br>
-  - Git/GitHub, VS Code, Jupyter Notebooks<br>
-  - Linux/Bash, version control<br><br>
-  
-### **Certifications**<br>
-- ✅ **One Million Prompters Program** — Dubai Centre for AI (2024)<br>
-- ✅ **Deloitte Data Analytics Job Simulation** (2024)<br><br>
-
-## 🏆 Achievements & Recognition<br><br>
-**| Award | Details | Year |**<br>
-|-------|---------|------|<br>
-| **Hackathon Participation** | Google Cloud Rapid Agent Hackathon | 2026 |<br><br>
-| **Springer Publication** | RUATS paper accepted at DAS 2024 | 2024 |<br>
-| **Ignite (NIGIRI) Fund** | FYP funding for AI-based Android travel app | 2019 |<br>
-| **Academic Recognition** | Top AI project in final year | 2019 |<br><br>
-
-## 🔗 Connect With Me<br><br>
-**| Platform | Link |**<br>
-|----------|------|<br>
-| **LinkedIn** | [linkedin.com/in/laraibkaleem](https://linkedin.com/in/laraibkaleem) |<br>
-| **GitHub** | [github.com/LaraibKaleem](https://github.com/LaraibKaleem) |<br>
-| **Email** | laraibkaleem15@gmail.com |<br>
-| **Location** | 📍 Islamabad, Pakistan |<br><br>
-
-<!--
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laraibkaleem15@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraibkaleem/)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LaraibKaleem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LaraibKaleem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LaraibKaleem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LaraibKaleem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🔗 [View on GitHub](https://github.com/LaraibKaleem/AutoBizAI-Database-Dashboard)
 
 ---
-[![](https://komarev.com/ghpvc/?username=LaraibKaleem&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚖️ FairHire AI — Bias-Free Recruitment Intelligence System
+**AI bias-auditing agent for ethical, explainable hiring**
 
-<!--
-# Hi, I'm Laraib Kaleem 👋
+- **81.85% accuracy** | **90.78% precision** — trained on 2,645 resumes
+- Uncovered real bias patterns via SHAP (e.g., negative weighting on "minority" and non-prestige institutions)
+- Integrated **Google Gemini 2.0 Flash** for plain-English hiring recommendations
+- Full observability via **Arize Phoenix** + OpenTelemetry tracing
+- Deployed as interactive 4-tab Streamlit dashboard on Streamlit Community Cloud
 
-## 🎓 Education
-- **MS in Data Science** - Bahria University (2021-2023)
-  - Thesis: Text Summarization for Roman Urdu using NLP & Deep Learning
-- **BS in Computer Science** - UET Taxila/CASE (2015-2019)
-  - FYP: Android Travel Recommendation Application using AI, Java & NoSQL
+**Tech:** Python · Scikit-learn · SHAP · Gemini 2.0 Flash · Streamlit · Arize Phoenix · OpenTelemetry
 
-## 💼 Professional Experience
-- **Data & BI Intern** - United Bank Limited (UBL) | 2024
-- **Development Intern** - Evamp & Saanga | 2020
-- **Web Dev Intern** - OGDCL | 2018
+🔗 [View on GitHub](https://github.com/LaraibKaleem/fairhire-ai)
+🚀 [Live App](https://fairhire-ai-h7ojbrwzoo5jbmcqhamkst.streamlit.app)
+
+---
+
+### 🏥 Clinexa AI — Multi-Agent Clinical Triage System
+**Production-ready clinical decision support system built in 10 days**
+
+- **6 orchestrated AI agents** — intake, risk prediction, explainability, treatment, drug safety, FHIR formatting
+- **4 independent MCP servers** (Python/FastAPI) | Zero manual intervention
+- **78% accuracy** on 1,000 synthetic patient records | SHAP TreeExplainer for real-time interpretability
+- **HL7 FHIR R4** compliance for hospital-safe deployment
+- Deployed to **Railway cloud** with 24/7 uptime | 100% integration test success rate
+- Published 6 agents to Prompt Opinion marketplace
+
+**Tech:** Python · FastAPI · MCP Protocol · RandomForest · SHAP · Railway · HL7 FHIR R4
+
+🔗 [View on GitHub](https://github.com/LaraibKaleem/Clinexa-AI)
+
+---
 
 ## 🔬 Research & Publications
-- **Published Researcher** - "RUATS: Abstractive Text Summarization for Roman Urdu" (2024)
-- International Workshop on Document Analysis Systems, Springer
-- Specialized in NLP for low-resource languages (Roman Urdu)
 
-## 💻 Technical Skills
-- **Languages:** Python, Java, PHP, JavaScript
-- **ML/AI:** TensorFlow, Scikit-learn, PyTorch, NLP, Deep Learning
-- **Data Science:** Pandas, NumPy, SciPy, NLTK
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Databases:** NoSQL, SQL
-- **Tools:** Git, REST APIs, Jupyter, Android Studio
+### Published Researcher — Springer Nature (2024)
 
-## 🎯 Current Focus
-- Completing Google Advanced Data Analytics Professional Certificate
-- Building production-ready ML systems
-- Exploring transformer architectures and LLMs
-- Seeking international opportunities in Data Analysis, Data Science/ML Engineering
+**Title:** RUATS: Abstractive Text Summarization for Roman Urdu
 
-## 🏆 Achievements
-- **Ignite (NIGIRI-2019) Final Year Project Fund**
-- AI-based Android Travel App
-- Top AI academic project recognition
+- International Workshop on Document Analysis Systems (DAS 2024) — Springer Nature Switzerland
+- **DOI:** [https://doi.org/10.1007/978-3-031-70442-0_16](https://doi.org/10.1007/978-3-031-70442-0_16)
 
-## 📫 Connect With Me
-- **LinkedIn:** [Laraib Kaleem](https://www.linkedin.com/in/laraibkaleem)
-- **Email:** laraibkaleem15@gmail.com
-- **Location:** Islamabad, Pakistan 🇵🇰
+**Key Contribution:** First benchmark dataset for abstractive summarisation in Roman Urdu — a low-resource South Asian language — using transformer-based encoder-decoder models (BERT/T5).
 
-## 📊 Currently Working On
-- Advanced ML projects with real-world applications
-- NLP systems for low-resource languages
-- Data visualization and business intelligence dashboards
-- Building comprehensive GitHub portfolio
-- ✅ **First Repository Created:** [my-first-project](https://github.com/LaraibKaleem/my-first-project) - Learning Git workflow and version control
 ---
 
-💡 **"Transforming data into actionable insights through machine learning and AI"**
---!>
+## 💼 Professional Experience
+
+| Role | Company | Period | Focus |
+|------|---------|--------|-------|
+| **AI/ML Engineer (Trainee)** | Samsung Innovation Campus | Jan–Apr 2026 | Multi-agent AI systems, production ML, agentic workflows |
+| **Business Intelligence Analyst Intern** | United Bank Limited (UBL) | Jul–Sep 2024 | Data pipelines, Tableau dashboards, Python automation |
+| **Software Developer Intern** | Evamp & Saanga | Jan–Oct 2020 | Magento e-commerce, PHP, JavaScript |
+
+---
+
+## 🌟 Open To
+
+✅ **Junior NLP Engineer** | **Junior ML Engineer** | **Graduate Data Scientist** | **AI Engineer (GenAI/Agentic)**
+
+🌍 **Locations:** UK · Europe · UAE · Saudi Arabia · Singapore · Malaysia · Pakistan · Remote
+
+💼 **Type:** Full-time · Contract · Hybrid
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
+---
+
+## 🎓 Education
+
+- **MS in Data Science** — Bahria University, Islamabad (2021–2023)
+  - Thesis: Text Summarization for Roman Urdu using NLP & Deep Learning
+
+- **BS in Computer Science** — Center for Advanced Studies in Engineering (CASE), Islamabad (2015–2019)
+  - FYP: AI-based Android Travel Recommendation App (Java, NoSQL)
+  - Award: Ignite (NIGIRI-2019) Final Year Project Fund
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Award | Details | Year |
+|-------|---------|------|
+| **Springer Publication** | RUATS paper accepted at DAS 2024, Springer Nature | 2024 |
+| **One Million Prompters** | Dubai Centre for AI & Dubai Future Foundation | 2024 |
+<!-- | **Google Data Analytics** | Google Advanced Data Analytics Professional Certificate — In Progress | 2024 | -->
+| **Ignite (NIGIRI) Fund** | National FYP funding for top AI-based academic project | 2019 |
+
+---
+
+## 🎯 Current Focus (July 2026)
+
+- 📚 **Portfolio Expansion** — Building showcase projects for international opportunities
+- 🔬 **Advanced ML Research** — Exploring agentic AI systems and multi-step reasoning
+- 🌍 **Job Hunt** — Targeting Junior NLP/ML Engineer & Data Scientist roles internationally
+- 📊 **Production Systems** — Building scalable, real-world ML solutions
+
+---
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | laraibkaleem15@gmail.com |
+| 💼 **LinkedIn** | [linkedin.com/in/laraibkaleem](https://www.linkedin.com/in/laraibkaleem/) |
+| 🐙 **GitHub** | [github.com/LaraibKaleem](https://github.com/LaraibKaleem) |
+| 📍 **Location** | Islamabad, Pakistan |
+
+---
+
+💡 *"Transforming data into actionable intelligence through production-grade AI systems"*
